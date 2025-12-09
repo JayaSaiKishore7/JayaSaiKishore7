@@ -2,10 +2,7 @@
 <p align="center">
   <b>Master’s Student in Data Science & Artificial Intelligence</b><br>
 </p>
----
-
 ## 💡 About Me
-
 I am a Master’s student in **Data Science & AI** with hands-on experience in:
 
 ✔ Machine learning & deep learning  
@@ -14,9 +11,7 @@ I am a Master’s student in **Data Science & AI** with hands-on experience in:
 ✔ Deploying ML services & CI/CD automation  
 
 I’m passionate about **production-ready ML workflows**, analytical problem-solving, and using AI to support impactful, data-driven decisions. I enjoy collaborating, continuously learning, and improving system reliability and efficiency.  
-
 ---
-
 ## 🛠️ Technical Skills
 
 ### 🔹 Languages  
@@ -46,11 +41,8 @@ I’m passionate about **production-ready ML workflows**, analytical problem-sol
 
 - English — Proficient  
 - French — Intermediate  
-
 ---
-
 ## 📬 Connect With Me
-
 - 📧 Email: jayasaikishoren@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jaya-sai-kishore/ 
 - 🐙 GitHub: https://github.com/JayaSaiKishore7
