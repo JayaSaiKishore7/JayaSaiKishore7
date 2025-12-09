@@ -64,8 +64,4 @@ I’m passionate about **production-ready ML workflows**, analytical problem-sol
 - 📧 Email: jayasaikishoren@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jaya-sai-kishore/ 
 - 🐙 GitHub: https://github.com/JayaSaiKishore7
-- 🔗 Portfolio: https://jayasaikishore7.github.io/
-
----
-
-<p align="center">✨ Thanks for visiting my profile! Feel free to explore, connect, or collaborate.</p>
+- 🔗 Portfolio: https://jayasaikishore7.github.io
