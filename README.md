@@ -2,10 +2,6 @@
 <p align="center">
   <b>Master’s Student in Data Science & Artificial Intelligence</b><br>
 </p>
-
-![Banner](https://github.com/user-attachments/assets/cf9224d2-6ef2-42cd-b623-a9f5d41630de)
-
-
 ---
 
 ## 💡 About Me
@@ -16,7 +12,6 @@ I am a Master’s student in **Data Science & AI** with hands-on experience in:
 ✔ Exploratory data analysis  
 ✔ Building scalable ML pipelines  
 ✔ Deploying ML services & CI/CD automation  
-✔ Working with **LLMs and RAG systems**
 
 I’m passionate about **production-ready ML workflows**, analytical problem-solving, and using AI to support impactful, data-driven decisions. I enjoy collaborating, continuously learning, and improving system reliability and efficiency.  
 
