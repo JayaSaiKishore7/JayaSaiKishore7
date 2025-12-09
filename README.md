@@ -1,3 +1,8 @@
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300?text=Jaya+Sai+Kishore+Neerukonda+-+Data+Science+%26+AI" 
+       alt="Profile Banner"/>
+</p>
 <h1 align="center">👋 Hi, I'm Jaya Sai Kishore Neerukonda</h1>
 <p align="center">
   <b>Master’s Student in Data Science & Artificial Intelligence</b><br>
