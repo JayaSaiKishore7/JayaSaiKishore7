@@ -3,6 +3,9 @@
   <b>Master’s Student in Data Science & Artificial Intelligence</b><br>
 </p>
 
+![Banner](https://github.com/user-attachments/assets/cf9224d2-6ef2-42cd-b623-a9f5d41630de)
+
+
 ---
 
 ## 💡 About Me
