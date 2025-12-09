@@ -5,10 +5,17 @@
 
 
 
+<br>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf9224d2-6ef2-42cd-b623-a9f5d41630de"
-       style="width:75%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0px 2px 6px rgba(0,0,0,0.2);" />
+  <img 
+    src="https://github.com/user-attachments/assets/cf9224d2-6ef2-42cd-b623-a9f5d41630de" 
+    width="90%" 
+    style="border-radius:12px; object-fit:cover; max-height:180px;"
+  />
 </p>
+
+<br>
 
 
 ---
