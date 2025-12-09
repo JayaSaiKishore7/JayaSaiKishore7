@@ -3,21 +3,6 @@
   <b>Master’s Student in Data Science & Artificial Intelligence</b><br>
 </p>
 
-
-
-<br>
-
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/cf9224d2-6ef2-42cd-b623-a9f5d41630de" 
-    width="90%" 
-    style="border-radius:12px; object-fit:cover; max-height:180px;"
-  />
-</p>
-
-<br>
-
-
 ---
 
 ## 💡 About Me
