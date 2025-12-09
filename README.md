@@ -1,12 +1,15 @@
-<!-- Banner Header -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Jaya+Sai+Kishore+Neerukonda+-+Data+Science+%26+AI" 
-       alt="Profile Banner"/>
-</p>
 <h1 align="center">👋 Hi, I'm Jaya Sai Kishore Neerukonda</h1>
 <p align="center">
   <b>Master’s Student in Data Science & Artificial Intelligence</b><br>
 </p>
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf9224d2-6ef2-42cd-b623-a9f5d41630de"
+       style="width:75%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0px 2px 6px rgba(0,0,0,0.2);" />
+</p>
+
 
 ---
 
