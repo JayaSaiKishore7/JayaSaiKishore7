@@ -11,7 +11,7 @@
 I am a Master’s student in **Data Science & AI** with hands-on experience in:
 
 ✔ Machine learning & Deep learning  
-✔ Exploratory data analysis  
+✔ Exploratory Data analysis  
 ✔ Building scalable ML pipelines  
 ✔ Deploying ML services & CI/CD automation  
 
