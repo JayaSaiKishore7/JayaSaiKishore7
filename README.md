@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 About M
+## 💡 About Me
 
 I am a Master’s student in **Data Science & AI** with hands-on experience in:
 
