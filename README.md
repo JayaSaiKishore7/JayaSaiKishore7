@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF8A3D&center=true&vCenter=true&width=620&lines=Turning+X-ray+images+into+factory+decisions;Vision+models+%7C+RAG+systems+%7C+ML+pipelines;Notebook+%E2%86%92+API+%E2%86%92+monitoring+%E2%86%92+repeat;Open+to+data+scientist+and+computer+vision+roles" alt="Turning X-ray images into factory decisions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF8A3D&center=true&vCenter=true&width=760&lines=Turning+X-ray+images+into+factory+decisions;Vision+models+%7C+RAG+systems+%7C+ML+pipelines;Notebook+%E2%86%92+API+%E2%86%92+monitoring+%E2%86%92+repeat;Open+to+data+scientist+and+computer+vision+roles+across+Europe+and+France" alt="Turning X-ray images into factory decisions">
 </p>
 
 <p align="center">
@@ -22,24 +22,26 @@ I'm an ML engineer who likes the unglamorous half of machine learning: getting a
 - 🏭 Just wrapped six months at **STMicroelectronics**, building a computer vision system that inspects solder balls on semiconductor packages from X-ray images
 - 🎓 Finishing a **Master's in Data Science & AI** at DataScienceTech Institute (2026)
 - 🔍 Comfortable across **computer vision**, **NLP / retrieval-augmented generation** and **MLOps**
-- 💼 Looking for **data scientist** and **computer vision** roles
+- 💼 Looking for **data scientist** and **computer vision** roles across **Europe and France**
 
 <br>
 
-## 📈 By the numbers
+## ⚡ Impact
 
-<table align="center">
-  <tr>
-    <td align="center"><h2>70% → 90%</h2><sub>defect-detection accuracy after fine-tuning YOLO11<br>(STMicroelectronics)</sub></td>
-    <td align="center"><h2>2 s → ms</h2><sub>inference time per X-ray image<br>(STMicroelectronics)</sub></td>
-    <td align="center"><h2>−40%</h2><sub>deployment time after containerising ML services<br>(Capgemini)</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><h2>97.5%</h2><sub>test accuracy, brain MRI classifier<br>running fully in the browser</sub></td>
-    <td align="center"><h2>0.993</h2><sub>AUC on diabetes risk,<br>2,095 held-out records</sub></td>
-    <td align="center"><h2>24 h</h2><sub>air-quality forecasts produced<br>automatically every day</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO11%20defect%20detection-70%25%20%E2%86%92%2090%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="YOLO11 defect detection 70% to 90%">
+  <img src="https://img.shields.io/badge/X--ray%20inference-2%20s%20%E2%86%92%20milliseconds-FF8A3D?style=for-the-badge&labelColor=15212C" alt="X-ray inference 2 s to milliseconds">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ML%20deployment%20time-%E2%88%9240%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="ML deployment time minus 40%">
+  <img src="https://img.shields.io/badge/model%20reliability-%2B30%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="model reliability plus 30%">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/brain%20MRI%20accuracy-97.5%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="brain MRI accuracy 97.5%">
+  <img src="https://img.shields.io/badge/diabetes%20risk%20AUC-0.993-FF8A3D?style=for-the-badge&labelColor=15212C" alt="diabetes risk AUC 0.993">
+</p>
+
+<p align="center"><sub>industrial results from STMicroelectronics and Capgemini · project results from my public repos below</sub></p>
 
 <br>
 
