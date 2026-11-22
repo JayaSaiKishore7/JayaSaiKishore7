@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1822,55:15212C,100:FF8A3D&height=210&section=header&text=Jaya%20Sai%20Kishore%20Neerukonda&fontSize=40&fontColor=E6ECF1&fontAlignY=36&desc=ML%20engineer%20%C2%B7%20vision%20%C2%B7%20retrieval%20%C2%B7%20pipelines&descSize=17&descAlignY=57&descAlign=50&animation=fadeIn" width="100%" alt="Jaya Sai Kishore Neerukonda, ML engineer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:334155,100:94A3B8&height=210&section=header&text=Jaya%20Sai%20Kishore%20Neerukonda&fontSize=40&fontColor=F8FAFC&fontAlignY=36&desc=ML%20engineer%20%C2%B7%20vision%20%C2%B7%20retrieval%20%C2%B7%20pipelines&descSize=17&descAlignY=57&descAlign=50&animation=fadeIn" width="100%" alt="Jaya Sai Kishore Neerukonda, ML engineer">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF8A3D&center=true&vCenter=true&width=760&lines=Turning+X-ray+images+into+factory+decisions;Vision+models+%7C+RAG+systems+%7C+ML+pipelines;Notebook+%E2%86%92+API+%E2%86%92+monitoring+%E2%86%92+repeat;Open+to+data+scientist+and+computer+vision+roles+across+Europe+and+France" alt="Turning X-ray images into factory decisions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=Turning+X-ray+images+into+factory+decisions;Vision+models+%7C+RAG+systems+%7C+ML+pipelines;Notebook+%E2%86%92+API+%E2%86%92+monitoring+%E2%86%92+repeat;Open+to+data+scientist+and+computer+vision+roles+across+Europe+and+France" alt="Turning X-ray images into factory decisions">
 </p>
 
 <p align="center">
-  <a href="https://jayasaikishore.pages.dev/"><img src="https://img.shields.io/badge/website-visit-FF8A3D?style=for-the-badge&logo=googlechrome&logoColor=E6ECF1&labelColor=0E1822" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/jaya-sai-kishore/"><img src="https://img.shields.io/badge/linkedin-connect-FF8A3D?style=for-the-badge&logo=linkedin&logoColor=E6ECF1&labelColor=0E1822" alt="LinkedIn"></a>
-  <a href="mailto:jayasaikishoren@gmail.com"><img src="https://img.shields.io/badge/gmail-write%20to%20me-FF8A3D?style=for-the-badge&logo=gmail&logoColor=E6ECF1&labelColor=0E1822" alt="Email"></a>
-  <a href="https://huggingface.co/JayaSaiKishore"><img src="https://img.shields.io/badge/hugging%20face-spaces-FF8A3D?style=for-the-badge&logo=huggingface&logoColor=E6ECF1&labelColor=0E1822" alt="Hugging Face"></a>
+  <a href="https://jayasaikishore.pages.dev/"><img src="https://img.shields.io/badge/website-visit-7DD3FC?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0&labelColor=070C16" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/jaya-sai-kishore/"><img src="https://img.shields.io/badge/linkedin-connect-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=E2E8F0&labelColor=070C16" alt="LinkedIn"></a>
+  <a href="mailto:jayasaikishoren@gmail.com"><img src="https://img.shields.io/badge/gmail-write%20to%20me-7DD3FC?style=for-the-badge&logo=gmail&logoColor=E2E8F0&labelColor=070C16" alt="Email"></a>
+  <a href="https://huggingface.co/JayaSaiKishore"><img src="https://img.shields.io/badge/hugging%20face-spaces-7DD3FC?style=for-the-badge&logo=huggingface&logoColor=E2E8F0&labelColor=070C16" alt="Hugging Face"></a>
 </p>
 
 <br>
@@ -29,16 +29,16 @@ I'm an ML engineer who likes the unglamorous half of machine learning: getting a
 ## ⚡ Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLO11%20defect%20detection-70%25%20%E2%86%92%2090%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="YOLO11 defect detection 70% to 90%">
-  <img src="https://img.shields.io/badge/X--ray%20inference-2%20s%20%E2%86%92%20milliseconds-FF8A3D?style=for-the-badge&labelColor=15212C" alt="X-ray inference 2 s to milliseconds">
+  <img src="https://img.shields.io/badge/YOLO11%20defect%20detection-70%25%20%E2%86%92%2090%25-7DD3FC?style=for-the-badge&labelColor=334155" alt="YOLO11 defect detection 70% to 90%">
+  <img src="https://img.shields.io/badge/X--ray%20inference-2%20s%20%E2%86%92%20milliseconds-7DD3FC?style=for-the-badge&labelColor=334155" alt="X-ray inference 2 s to milliseconds">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/ML%20deployment%20time-%E2%88%9240%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="ML deployment time minus 40%">
-  <img src="https://img.shields.io/badge/model%20reliability-%2B30%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="model reliability plus 30%">
+  <img src="https://img.shields.io/badge/ML%20deployment%20time-%E2%88%9240%25-7DD3FC?style=for-the-badge&labelColor=334155" alt="ML deployment time minus 40%">
+  <img src="https://img.shields.io/badge/model%20reliability-%2B30%25-7DD3FC?style=for-the-badge&labelColor=334155" alt="model reliability plus 30%">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/brain%20MRI%20accuracy-97.5%25-FF8A3D?style=for-the-badge&labelColor=15212C" alt="brain MRI accuracy 97.5%">
-  <img src="https://img.shields.io/badge/diabetes%20risk%20AUC-0.993-FF8A3D?style=for-the-badge&labelColor=15212C" alt="diabetes risk AUC 0.993">
+  <img src="https://img.shields.io/badge/brain%20MRI%20accuracy-97.5%25-7DD3FC?style=for-the-badge&labelColor=334155" alt="brain MRI accuracy 97.5%">
+  <img src="https://img.shields.io/badge/diabetes%20risk%20AUC-0.993-7DD3FC?style=for-the-badge&labelColor=334155" alt="diabetes risk AUC 0.993">
 </p>
 
 <p align="center"><sub>industrial results from STMicroelectronics and Capgemini · project results from my public repos below</sub></p>
@@ -92,4 +92,4 @@ I'm an ML engineer who likes the unglamorous half of machine learning: getting a
   <i>Have a dataset that needs a model, or a model that needs a home? <a href="mailto:jayasaikishoren@gmail.com">Let's talk.</a></i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,45:15212C,100:0E1822&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:94A3B8,45:334155,100:0B1220&height=110&section=footer" width="100%" alt="">
