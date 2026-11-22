@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=Computer+Vision;LLMs;RAG;MLOps;Open+to+data+scientist+and+computer+vision+roles+across+Europe+and+France" alt="Computer Vision, LLMs, RAG, MLOps">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=Computer+Vision+%7C+LLMs%2FRAG+%7C+MLOps;Vision+models+%7C+RAG+systems+%7C+ML+pipelines;Notebook+%E2%86%92+API+%E2%86%92+monitoring+%E2%86%92+repeat;Open+to+data+scientist+and+computer+vision+roles+across+Europe+and+France" alt="Computer Vision | LLMs/RAG | MLOps">
 </p>
 
 <p align="center">
